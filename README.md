@@ -10,7 +10,6 @@ simulando operações básicas de uma conta bancária.
 - Saque com validação de saldo
 - Consulta de saldo
 
-
 ## Tecnologias
 - Python 3
 - Programação Orientada a Objetos
