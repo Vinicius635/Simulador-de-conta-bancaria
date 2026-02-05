@@ -1,23 +1,23 @@
-# Simulador-de-conta-bancaria
+Simulador-de-conta-bancaria
 
 Projeto desenvolvido em Python com foco em Programação Orientada a Objetos (POO),
 simulando operações básicas de uma conta bancária.
 
-## Funcionalidades
+Funcionalidades:
 - Criação de cliente
 - Criação de conta
 - Depósito
 - Saque com validação de saldo
 - Consulta de saldo
-
-## Tecnologias
+  
+Tecnologias:
 - Python 3
 - Programação Orientada a Objetos
 
-## Como executar
+Como executar:
 Execute o arquivo main.py usando o Python.
 
-## Aprendizados
+Aprendizados:
 - Criação e utilização de classes em Python
 - Conceitos básicos de Programação Orientada a Objetos (POO)
 - Organização do código em múltiplos arquivos
